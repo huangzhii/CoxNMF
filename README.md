@@ -1,4 +1,4 @@
-# CoxNMF
+# CoxNMF: A Proportional Hazards Non-negative Matrix Factorization Method for Identifying Survival Associated Gene Clusters
 
 Huang <em>et al.</em> CoxNMF: A Proportional Hazards Non-negative Matrix Factorization Method for Identifying Survival Associated Gene Clusters.
 
@@ -25,9 +25,7 @@ python main.py --dataset TCGA
 ```
 and use argparse to parse in the parameters.
 
-Alternatively, gen_bash.py script can help you to generate multiple commands and run in parallelSunday, 07. March 2021 09:35PM 
-Sunday, 07. March 2021 09:35PM 
-.
+Alternatively, gen_bash.py script can help you to generate multiple commands and run in parallel.
 
 ## Python packages version
 
